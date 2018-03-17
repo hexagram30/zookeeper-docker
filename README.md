@@ -12,9 +12,9 @@ Create image:
 $ make zookeeper-image
 ```
 
-Run container:
+Publish image on DockerHub:
 ```
-docker-compose up
+$ make zookeeper-publish
 ```
 
 
